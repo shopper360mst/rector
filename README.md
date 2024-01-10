@@ -1,8 +1,6 @@
 Just clone the folder and you may need 
 
->***composer install***
-
-to install its dependencies. Don't have to host this project as this is just a php tool.
+Don't have to host this project as this is just a php tool.
 
 Then place your ***desired*** src folder, in my case is our ***src/Entity*** 
 place the folder inside the 
